@@ -1,8 +1,8 @@
 {
+  "homepage": "https://Abhishek2310k.github.io/portfolio_mohit",
   "name": "portfolio_mohit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Abhishek2310k.github.io/react-gh-pages",
   "dependencies": {
     "@srexi/purecounterjs": "^1.5.0",
     "@testing-library/jest-dom": "^5.17.0",

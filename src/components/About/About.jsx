@@ -1,5 +1,6 @@
 import React from 'react'
 import { RiArrowRightWideLine } from "react-icons/ri";
+import profileImage from './profile.jpg';
 import './About.scss'
 const About = () => {
   return (
@@ -13,7 +14,7 @@ const About = () => {
 
         <div class="row">
           <div class="col-lg-4 profile_image_about" data-aos="fade-right" data-aos-duration="1000">
-            <img src="/profile-img.jpg" class="img-fluid" alt=""/>
+            <img src={profileImage} alt='hello'/>
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left" data-aos-duration="1000">
             <h3>UI/UX Designer &amp; Web Developer.</h3>
