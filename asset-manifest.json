@@ -1,16 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio_mohit/static/css/main.8fff21a0.css",
-    "main.js": "/portfolio_mohit/static/js/main.39e08c95.js",
+    "main.js": "/portfolio_mohit/static/js/main.8e994ee3.js",
     "static/js/453.51e3ab01.chunk.js": "/portfolio_mohit/static/js/453.51e3ab01.chunk.js",
     "static/media/hero-bg.jpg": "/portfolio_mohit/static/media/hero-bg.d4e4dfc41568f51250f8.jpg",
+    "static/media/profile.jpg": "/portfolio_mohit/static/media/profile.23977f23f4ed53b4fdad.jpg",
+    "static/media/profile_img.jpg": "/portfolio_mohit/static/media/profile_img.23977f23f4ed53b4fdad.jpg",
+    "static/media/portfolio-2.jpg": "/portfolio_mohit/static/media/portfolio-2.bb58c28684dd06cca3b7.jpg",
+    "static/media/portfolio-1.jpg": "/portfolio_mohit/static/media/portfolio-1.88a9e07439d191812e5f.jpg",
+    "static/media/portfolio-3.jpg": "/portfolio_mohit/static/media/portfolio-3.80ecc9ef01cdf62dda3d.jpg",
     "index.html": "/portfolio_mohit/index.html",
     "main.8fff21a0.css.map": "/portfolio_mohit/static/css/main.8fff21a0.css.map",
-    "main.39e08c95.js.map": "/portfolio_mohit/static/js/main.39e08c95.js.map",
+    "main.8e994ee3.js.map": "/portfolio_mohit/static/js/main.8e994ee3.js.map",
     "453.51e3ab01.chunk.js.map": "/portfolio_mohit/static/js/453.51e3ab01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fff21a0.css",
-    "static/js/main.39e08c95.js"
+    "static/js/main.8e994ee3.js"
   ]
 }
