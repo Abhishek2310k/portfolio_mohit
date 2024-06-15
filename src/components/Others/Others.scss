@@ -1,0 +1,77 @@
+.services .icon-box {
+    margin-bottom: 20px;
+  }
+  
+  .services .icon {
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 54px;
+    height: 54px;
+    background: #149ddd;
+    border-radius: 50%;
+    transition: 0.5s;
+    border: 1px solid #149ddd;
+  }
+  
+  
+  .services .title {
+    margin-left: 80px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 18px;
+  }
+  
+  .services .title a {
+    color: #343a40;
+  }
+  
+  .services .description {
+    margin-left: 80px;
+    line-height: 24px;
+    font-size: 14px;
+  }
+
+  .services{
+    width: 90%;
+    padding: 0 5%;
+    min-height: 60vh;
+    .container {
+        .row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            .icon-box {
+                .icon {
+                    padding: 0 10px;
+                    border-radius: 100%;
+                    color: #fff;
+                }
+                .icon:hover {
+                  background-color: #fff;
+                }
+                .icon:hover {
+                    color: #149ddd;
+                }
+                width: 400px;
+                display: flex;
+                align-items: center;
+                gap: 10px;
+                .content {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: flex-start;
+                    h4 {
+                        padding: 0;
+                        margin: 0;
+                    }
+                    p {
+                        padding: 0;
+                        margin: 0;
+                    }
+                }
+            }
+        }
+    }
+  }
